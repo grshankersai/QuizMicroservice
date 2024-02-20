@@ -53,3 +53,7 @@ curl --location 'http://localhost:8080/quiz/submit/1' \
 }
 ]'
 
+
+#### To Get Questions by Category
+curl --location 'http://localhost:8080/question/category/Geography'
+
